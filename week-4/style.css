@@ -1,4 +1,10 @@
 body {
-  background-color: gainsboro;
+  background-color: aliceblue;
   min-height: 100vh;
+}
+h1{
+  font-family: sans-serif;
+}
+p{
+  font-family: sans-serif;
 }
